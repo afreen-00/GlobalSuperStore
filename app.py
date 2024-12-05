@@ -1,7 +1,5 @@
 import streamlit as st
 import psycopg2
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # Database connection
 def create_connection():
